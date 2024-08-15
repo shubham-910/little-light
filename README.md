@@ -1,7 +1,7 @@
 # Little Light
 
 ## Author
-* [Shubham Dipakkumar Jethva](shubhamjethva92@gmail.com) - *(Maintainer)*
+* [Shubham](shubhamjethva92@gmail.com) - *(Maintainer)*
 
 ## Prerequisites
 - Node.js: Install the latest version of Node.js from [here](https://nodejs.org/)

@@ -1,0 +1,7 @@
+backend/target/classes/ca/dal/little_light/model/Feedback.class
+backend/target/classes/ca/dal/little_light/model/Feedback.class
+backend/target/classes/ca/dal/little_light/model/UserDetails.class
+backend/target/classes/ca/dal/little_light/repository/UserDetailsRepository.class
+backend/target/classes/ca/dal/little_light/repository/FeedbackRepository.class
+backend/target/classes/ca/dal/little_light/repository/UserDetailsRepository.class
+backend/target/classes/ca/dal/little_light/service/UserDetailsService.class

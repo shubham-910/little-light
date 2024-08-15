@@ -1,0 +1,58 @@
+.blog-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    padding-top: 70px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background: #fff;
+    position: relative;
+}
+
+.blog-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.blog-image {
+    width: 100%; /* Makes sure the image is not wider than the container */
+    height: auto; /* Maintains the aspect ratio of the image */
+    margin-bottom: 20px;
+}
+
+.kebab-menu {
+    cursor: pointer;
+    position: relative;
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 8px;
+}
+
+.dropdown-menu {
+    position: absolute;
+    right: 0;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 100;
+    width: 150px;
+    border-radius: 4px;
+    overflow: hidden;
+    display: none; /* Initially hidden */
+}
+
+.dropdown-item {
+    padding: 12px 16px;
+    display: block; /* Essential for vertical stacking */
+    color: black;
+    text-decoration: none;
+    text-align: left; /* Aligns text to the left within dropdown */
+}
+
+.dropdown-item:hover {
+    background-color: #eaeaea; /* Light grey background on hover */
+}
+
+.kebab-menu:hover .dropdown-menu {
+    display: block; /* Display dropdown on hover of kebab icon */
+}

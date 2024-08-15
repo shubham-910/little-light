@@ -1,0 +1,21 @@
+.playlist {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 15px 0 15px;
+
+  }
+  
+  .playlist-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+    object-fit: cover;
+  }
+  
+  .playlist-name {
+    margin-top: 10px;
+    font-size: 15px;
+    text-align: center;
+  }
+  

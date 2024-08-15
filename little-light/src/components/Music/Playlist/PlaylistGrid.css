@@ -1,0 +1,31 @@
+.playlist-grid {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 145px; 
+    box-sizing: border-box;
+    justify-content: space-between;
+    margin-top: 0;
+  }
+
+  .playlist {
+    flex: 1 1 calc(20% - 10px);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .playlist-image {
+    width: 100%;
+    height: auto;
+    max-width: 150px;
+    border-radius: 8px;
+  }
+  
+  .playlist-name {
+    color: #000;
+    font-size: 1rem;
+    text-decoration: none;
+  }
+  

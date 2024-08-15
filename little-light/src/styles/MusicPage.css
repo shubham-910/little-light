@@ -1,0 +1,13 @@
+body{
+    background-color: #EFE8F2;
+}
+
+.para {
+    color: #4A305D;
+    margin-left: 160px;
+    font-family: "Fredoka", Roboto;
+    font-weight: 550;
+    font-size: 30px;
+    margin-top: 15px;
+    margin-bottom: 0;
+  }

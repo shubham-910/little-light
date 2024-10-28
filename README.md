@@ -23,7 +23,7 @@ At the heart of Little Light are our qualified mental health professionals who a
 ## Technologies Used
 - **React JS:** A JavaScript library used for building dynamic and responsive user interfaces, ensuring a seamless user experience.
 - **Spring Boot:** A robust framework that simplifies the development of RESTful APIs and backend services, enabling secure and efficient data management.
-- **MySQL:** A relational database management system used to store and retrieve application data, ensuring data integrity and security.
+- **PostgreSQL:** A relational database management system used to store and retrieve application data, ensuring data integrity and security.
 
 ## Work Done in Developing the Proposed Application Prototype
 
@@ -38,7 +38,7 @@ At the heart of Little Light are our qualified mental health professionals who a
 
 ### 2. **Backend Development:**
    - **API Development:** Built RESTful APIs using Spring Boot to handle user authentication, profile management, journaling, music library, and appointment booking.
-   - **Database Integration:** Configured a MySQL database to store user data, therapist information, journal entries, and appointment bookings.
+   - **Database Integration:** Configured a PostgreSQL database to store user data, therapist information, journal entries, and appointment bookings.
    - **Data Security:** Implemented encryption for sensitive data, ensuring that user information is stored securely.
    - **Session Management:** Developed a session management system to handle user sessions, ensuring that users remain logged in securely across their browsing experience.
 
@@ -81,3 +81,12 @@ At the heart of Little Light are our qualified mental health professionals who a
 
 ---
 
+### below are some visuals of our website.
+## home page:
+![Home Page](assets/little-light-netlify-app.png)
+
+## Login Page:
+![Login Page](assets/login.png)
+
+## Signup Page:
+![Sign Up Page](assets/little-light-netlify-app-sign-up.png)

@@ -81,7 +81,7 @@ At the heart of Little Light are our qualified mental health professionals who a
 
 ---
 
-### below are some visuals of our website.
+### Some visuals of the website.
 ## home page:
 ![Home Page](assets/little-light-netlify-app.png)
 
